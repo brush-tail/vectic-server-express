@@ -1,0 +1,25 @@
+{
+  "name": "vectic-server-express",
+  "version": "1.0.0",
+  "description": "Vectic server library for servign vectic images",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brush-tail/vectic-server-express.git"
+  },
+  "keywords": [
+    "vectic",
+    "server",
+    "svg",
+    "vector"
+  ],
+  "author": "<zeus3rd@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/brush-tail/vectic-server-express/issues"
+  },
+  "homepage": "https://github.com/brush-tail/vectic-server-express#readme"
+}
